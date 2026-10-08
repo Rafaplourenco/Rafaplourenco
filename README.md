@@ -33,7 +33,7 @@ Currently focused on computer networking, telecommunications and IT infrastructu
 - Network automation
 
 ## Contact
-- LinkedIn: coloca aqui o teu link
+- LinkedIn: www.linkedin.com/in/rafael-lourenço-76b855434
 <!--
 **Rafaplourenco/Rafaplourenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
